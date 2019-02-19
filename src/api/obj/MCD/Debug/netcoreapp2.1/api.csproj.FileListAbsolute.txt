@@ -1,0 +1,14 @@
+C:\repos\iqKnives\src\api\bin\MCD\Debug\netcoreapp2.1\api.deps.json
+C:\repos\iqKnives\src\api\bin\MCD\Debug\netcoreapp2.1\api.runtimeconfig.json
+C:\repos\iqKnives\src\api\bin\MCD\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\repos\iqKnives\src\api\bin\MCD\Debug\netcoreapp2.1\api.dll
+C:\repos\iqKnives\src\api\bin\MCD\Debug\netcoreapp2.1\api.pdb
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.dll
+C:\repos\iqKnives\src\api\obj\MCD\Debug\netcoreapp2.1\api.pdb
